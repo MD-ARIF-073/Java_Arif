@@ -18,6 +18,7 @@ public enum HttpStatusCode {
     IM_USED(226, "IM Used"),
 
 
+
     //4xx: Client Error
     BAD_REQUEST(400, "Bad Request"),
     UNAUTHORIZED(401, "Unauthorized"),
